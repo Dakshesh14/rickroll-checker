@@ -29,7 +29,6 @@ def main(url):
 if __name__ == "__main__":
     print("Main function ran")
     while True:
-        print("Checking")
         sleep(10)
         url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
